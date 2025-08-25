@@ -137,3 +137,7 @@ Here’s how you connect it to DevOps practice:
 
 4. **Health Check**
    - Script that checks if `nginx` is running, otherwise restarts it.
+
+--- 
+DevOps road map =>
+Linux → Git → CI/CD → Cloud → Docker → Kubernetes → Terraform → Monitoring → Security → Scaling.
